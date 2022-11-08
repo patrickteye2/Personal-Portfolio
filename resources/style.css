@@ -201,8 +201,8 @@ nav li{
     width: 60%;
     border: 1px solid #0077B6;
     border-radius: 10px 10px 0 0 ;
-    box-shadow: 1px 1px 1px #0077B6;
-
+    /* box-shadow: 1px 1px 1px #0077B6; */
+    box-shadow: 2px 2px 1em rgba(0,0,0,0.2);
 }
 
 
@@ -210,7 +210,7 @@ nav li{
     height:100%;
     width: 100%;
     border-radius: 10px 10px 0 0 ;
-    box-shadow: 1px -1px 1px #0077B6;
+    /* box-shadow: 1px -1px 1px #0077B6; */
 
 }
 
